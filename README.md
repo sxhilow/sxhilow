@@ -1,11 +1,8 @@
-## Hi there 👋
-
-
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+![image](https://github.com/user-attachments/assets/27e83dd5-681c-486f-8b18-578403538e58)<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm Sahil</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
-  <a href="https://[your-portfolio-link]">
+  <a href="https://sxhilx.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
@@ -14,17 +11,6 @@
 </div>
 
 
-<!--
-**sxhilx/sxhilx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ambitious second-year Information Technology student with a strong foundation in C++, JavaScript, Python, PHP, HTML and CSS. Proficient in developing innovative projects that demonstrate practical application of academic knowledge. Seeking opportunities to contribute fresh perspectives and grow within a professional environment.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
