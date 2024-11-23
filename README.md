@@ -7,9 +7,10 @@
 </h2>
 
 
-<a href="https://sxhilx.vercel.app">
+<a href="https://sxhilx.vercel.app" align="center">
   Checkout My Portfolio
 </a>
+ Ready to talk anytime!
 
 
 
