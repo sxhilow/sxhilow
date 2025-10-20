@@ -44,6 +44,6 @@ const sahil = {
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sxhilow)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sxhilx.vercel.app)
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00C7B7&style=flat-square)
+![](https://komarev.com/ghpvc/?username=sxhilow&color=00C7B7&style=flat-square)
 
 </div>
